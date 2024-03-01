@@ -6,6 +6,7 @@
 #include <fstream>
 #include <vector>
 #include <string>
+#include <cstring>
 
 #pragma pack(push, 1)
 struct pak_header_t {
